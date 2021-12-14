@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,500);
 body {
-  font: 100% Oswald, droid-sans, droid-serif;
+  font: 'Oswald', droid-sans, droid-serif;
   background: url("") 50% 50% no-repeat;
   background-size: cover;
   padding: 50px;
@@ -8,7 +8,7 @@ body {
   color:grey;
 }
 nav {
-  background-image:url('transparent.png');
+  background-image:url('');
   position: relative;
   display: inline-block text_decoration: yellow;
 }
