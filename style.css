@@ -1,13 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,500);
 body {
   font: 100% Oswald, droid-sans, droid-serif;
-  background: url("transparent.pn") 50% 50% no-repeat;
+  background: url("") 50% 50% no-repeat;
   background-size: cover;
   padding: 50px;
   margin: 0;
   color:grey;
 }
 nav {
-  display: inline -right;
+  background-image:url('transparent.png');
+  position: relative;
+  display: inline-block;
 }
 
