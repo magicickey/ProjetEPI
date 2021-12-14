@@ -10,6 +10,6 @@ body {
 nav {
   background-image:url('transparent.png');
   position: relative;
-  display: inline-block;
+  display: inline-block text_decoration: yellow;
 }
 
