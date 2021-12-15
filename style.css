@@ -14,7 +14,8 @@ body,html{
     z-index: 0;
   }
   .container_footer{
-    background-color:#ccffff;
+    background-color:white;
+      color:black;
     height: 650px;
     width: 100%;
     border-bottom: 1px solid black;
