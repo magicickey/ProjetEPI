@@ -4,10 +4,15 @@
 ![aide_icone](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/aide_icone.png?raw=true)
 ![accrobranche](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/accrobranche.jpg?raw=true)
 ![email](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/email.png?raw=true)
-![]()
-![]()
-![]()
+![facebook](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/facebook.png?raw=true)
+![golf](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/golf.jpg)
+![google](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/google.png)
+![grille](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/grille.png)
+![transparent](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/transparent.png?raw=true)
+![lien_icone](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/lien_icone.png?raw=true)
+![mail_icone](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/mail_icone.png?raw=true)
+![pinterest](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/pinterest.png?raw=true)
+![rss](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/rss.png)
+![telephone_icone](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/telephone_icone.png?raw=true)
+![twitter](https://github.com/magicickey/ProjetEPI/blob/main/assets/misc/twitter.png?raw=true)
 
-
-
-![transparent](https://github.com/magicickey/ProjetEPI/blob/main/transparent.png?raw=true)
