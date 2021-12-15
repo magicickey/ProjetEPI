@@ -11,5 +11,6 @@ background-image:url('transparent.png');
 }
 footer{
 background-image:url('grille.png');
+  display: inline-block;
 }
 
