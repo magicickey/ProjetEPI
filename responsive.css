@@ -1,0 +1,28 @@
+body {
+background-image:url('asset/msci/grille.png');
+}
+
+.social-icon{
+display: center-block;
+}
+.nav-header {
+display: top-left;
+}
+
+.section_middle{
+display:center;
+font-size:11%;
+}
+
+.article_title{
+  font: size 15%;
+
+}
+
+.h3 {
+display:bottom-left;
+}
+
+.section_img {
+display:block;
+}
